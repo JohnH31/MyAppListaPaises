@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Paises</string>
+    <string name="guate">
+        Pais Guatemala
+        \n \n
+        Cantidad de Habitantes: 16.6 millones
+    </string>
+    <string name="ecu">
+        Pais Ecuador
+        \n \n
+        Cantidad de Habitantes: 17.37 millones
+    </string>
+    <string name="bra">
+        Pais Brasil
+        \n \n
+        Cantidad de Habitantes: 211 millones
+    </string>
+    <string name="hon">
+        Pais Honduras
+        \n \n
+        Cantidad de Habitantes: 9.746 millones
+    </string>
+    <string name="fran">
+        Pais Francia
+        \n \n
+        Cantidad de Habitantes: 67.06 millones
+    </string>
+    <string name="usa">
+        Pais Estados Unidos
+        \n \n
+        Cantidad de Habitantes: 328.2 millones
+    </string>
+    <string name="pam">
+        Pais Panama
+        \n \n
+        Cantidad de Habitantes: 4.246 millones
+    </string>
+    <string name="por">
+        Pais Portugal
+        \n \n
+        Cantidad de Habitantes: 10.28 millones
+    </string>
+    <string name="ale">
+        Pais Alemania
+        \n \n
+        Cantidad de Habitantes: 83.02 millones
+    </string>
+    <string name="mexi">
+        Pais Mexico
+        \n \n
+        Cantidad de Habitantes: 127.6 millones
+    </string>
+</resources>
